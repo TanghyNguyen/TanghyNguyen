@@ -1,4 +1,4 @@
-# 👋 Salut, moi c'est Tanghy
+# Salut, moi c'est Tanghy
 
 🎯 **Futur Concepteur Développeur d'Applications** · diplôme prévu fin 2026  
 🔭 Stack : **Next.js · TypeScript · Python · FastAPI · Prisma · IA**  
